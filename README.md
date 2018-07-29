@@ -35,3 +35,4 @@
 - MiniFactrory - https://www.myminifactory.com
 - 3Dorchard - https://3dorchard.com/
 - Pinshape - https://pinshape.com/
+- 3Dagogo - https://www.3dagogo.com/
