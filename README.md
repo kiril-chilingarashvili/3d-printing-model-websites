@@ -33,4 +33,5 @@
 - Pixellabs - https://www.thepixellab.net/freebies/
 - Cults3d - https://cults3d.com
 - MiniFactrory - https://www.myminifactory.com
-- 3Dorchard https://3dorchard.com/
+- 3Dorchard - https://3dorchard.com/
+- Pinshape - https://pinshape.com/
